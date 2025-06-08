@@ -250,7 +250,7 @@ textarea {
 
 
 body{
-    background-image: url(./img/hero.jpg);
+    background-image: url(../../img/hero.jpg);
   background-position: top right -40px;
   background-size: 900px;
   background-repeat: no-repeat;
